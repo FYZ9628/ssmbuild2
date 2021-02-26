@@ -1,4 +1,4 @@
-# ssmbuild2
+# ssmbuild2（ssm模板一）
 
 这是ssm项目模板，包括对书籍的增删改查。
 项目的配置比较繁多，这个项目配置简单点：https://github.com/FYZ9628/ssm_project
