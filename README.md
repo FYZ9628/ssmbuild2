@@ -1,7 +1,13 @@
 # ssmbuild2（ssm模板一）
 
-这是ssm项目模板，包括对书籍的增删改查。
-项目的配置比较繁多，这个项目配置简单点：https://github.com/FYZ9628/ssm_project
+
+这是ssm项目模板，包括对书籍的增删改查。 
+
+
+ssm模板一：https://github.com/FYZ9628/ssmbuild2 项目的配置比较繁琐，只是记录一下，并没有用
+
+
+ssm模板二：https://github.com/FYZ9628/ssm_project 项目的配置比较简单，实际在用的
 
 ### 用到的技术和开发工具
 **前端**
