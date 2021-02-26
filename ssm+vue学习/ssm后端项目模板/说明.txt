@@ -1,0 +1,11 @@
+1、模板地址
+这是ssm项目模板，包括对书籍的增删改查。
+
+ssm模板一：https://github.com/FYZ9628/ssmbuild2 项目的配置比较繁琐，只是记录一下，并没有用
+
+ssm模板二：https://github.com/FYZ9628/ssm_project 项目的配置比较简单，实际在用的
+
+
+2、数据库文件
+ssmbuild  是模板一的数据库文件
+ssm_example  是模板二的数据库文件

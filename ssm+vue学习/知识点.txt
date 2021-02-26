@@ -1,0 +1,11 @@
+1、数据库连接池
+	（1）dbcp：半自动化操作，不能自动连接
+	（2）c3p0：自动化操作（自动化的加载配置文件，并且可以自动设置到对象中）
+	（3）druid：
+	（4）hikari：
+
+
+2、MVC
+	模型（dao，service）、视图（jsp）、控制器(servlet)
+
+3、springMVC就是servlet

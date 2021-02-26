@@ -1,0 +1,10 @@
+ssm（spring + springMVC + mybatis）
+
+ssm+vue
+https://blog.csdn.net/jianyuwuyi/article/details/107924066
+
+狂神说
+https://www.bilibili.com/video/BV1RE41127rv?p=1
+小demo
+https://github.com/FYZ9628/ssm-BookCRUD（可以用的）
+
